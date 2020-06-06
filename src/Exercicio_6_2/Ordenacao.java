@@ -1,0 +1,7 @@
+package Exercicio_6_2;
+
+public interface Ordenacao {
+	
+	int[] ordenar(int v[]);
+
+}

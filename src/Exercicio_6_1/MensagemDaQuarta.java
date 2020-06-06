@@ -1,0 +1,10 @@
+package Exercicio_6_1;
+
+public class MensagemDaQuarta implements MensagemDoDia {
+
+	@Override
+	public String mensagem() {
+		return "Hoje é quarta!";
+	}
+
+}
